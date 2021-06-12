@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Concrete\RepositoryQuery.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\..\OneDrive - FlowCentric Technologies\Desktop\old files\DOS\DOS\DOS.Repository\bin\Debug\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Dynamic">
+      <HintPath>..\..\..\..\OneDrive - FlowCentric Technologies\Desktop\old files\DOS\DOS\DOS.Repository\bin\Debug\System.Linq.Dynamic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

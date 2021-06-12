@@ -1,0 +1,14 @@
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\EntityFramework.SqlServer.dll
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\System.Linq.Dynamic.dll
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\EntityFramework.SqlServer.xml
+C:\Users\freedomn\source\repos\Employee\Repository\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\freedomn\source\repos\Employee\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

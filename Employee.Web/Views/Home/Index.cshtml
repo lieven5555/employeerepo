@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Employee.Web.Models.EmployeeDetails>
+
+@{
+    ViewBag.Title = "Freedom";
+}
+
+<h2 align="center">List of Employees</h2>
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("First Name")
+            </th>
+            <th>
+                @Html.DisplayName("Last Name")
+            </th>
+            <th>
+                @Html.DisplayName("Age")
+            </th>
+        </tr>
+     </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+            </tr>
+        }
+</table>
